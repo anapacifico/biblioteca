@@ -10,10 +10,10 @@ Funcionalidades Principais
 ## Cadastro de Livros
 
 O sistema permite o cadastro de novos livros com informações detalhadas, incluindo:
-Título
-Autor
-Gênero
-Dados do Autor
+Título,
+Autor,
+Gênero,
+Dados do Autor e 
 Número de Páginas
 
 ## Atualização de Dados 
